@@ -7,5 +7,5 @@ public enum EControlType{
 
 public class PlayerSettings
 {
-    
+    public static EControlType controlType;
 }
