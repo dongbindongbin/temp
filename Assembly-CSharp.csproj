@@ -64,13 +64,14 @@
     <Compile Include="Assets\Scripts\RoomPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerColor.cs" />
     <Compile Include="Assets\Scripts\GamePlayer.cs" />
-    <Compile Include="Assets\UI\Scripts\CreateRoomUI.cs" />
     <Compile Include="Assets\Scripts\CrewFloater.cs" />
     <Compile Include="Assets\UI\Scripts\SettingsUI.cs" />
+    <Compile Include="Assets\UI\Online UI\Scripts\CreateRoomUI.cs" />
     <Compile Include="Assets\UI\Scripts\MainMenuUI.cs" />
     <Compile Include="Assets\Scripts\RoomManager.cs" />
     <Compile Include="Assets\Scripts\FloatingCrew.cs" />
     <Compile Include="Assets\Scripts\PlayerSettings.cs" />
+    <Compile Include="Assets\UI\Online UI\Scripts\OnlineUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll" />
@@ -602,10 +603,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json\Runtime\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
