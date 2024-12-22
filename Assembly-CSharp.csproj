@@ -23,7 +23,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_6000_0_31;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_6000_0_31;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;MIRROR;MIRROR_81_OR_NEWER;MIRROR_82_OR_NEWER;MIRROR_83_OR_NEWER;MIRROR_84_OR_NEWER;MIRROR_85_OR_NEWER;MIRROR_86_OR_NEWER;MIRROR_89_OR_NEWER;MIRROR_90_OR_NEWER;MIRROR_93_OR_NEWER;EDGEGAP_PLUGIN_SERVERS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
@@ -61,22 +61,33 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\RoomPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerColor.cs" />
+    <Compile Include="Assets\Scripts\GamePlayer.cs" />
+    <Compile Include="Assets\UI\Scripts\CreateRoomUI.cs" />
     <Compile Include="Assets\Scripts\CrewFloater.cs" />
     <Compile Include="Assets\UI\Scripts\SettingsUI.cs" />
     <Compile Include="Assets\UI\Scripts\MainMenuUI.cs" />
+    <Compile Include="Assets\Scripts\RoomManager.cs" />
     <Compile Include="Assets\Scripts\FloatingCrew.cs" />
     <Compile Include="Assets\Scripts\PlayerSettings.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Mirror\Plugins\BouncyCastle\Mirror.BouncyCastle.Cryptography.dll" />
+    <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\Mirror\Version.txt" />
+    <None Include="Assets\Mirror\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -85,13 +96,16 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Mirror\Notice.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Mirror\Plugins\Mono.Cecil\License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Mirror\Hosting\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -558,6 +572,14 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Mono.CecilX">
+      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.CecilX.Mdb">
+      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
@@ -566,8 +588,24 @@
       <HintPath>Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Mirror.BouncyCastle.Cryptography">
+      <HintPath>Assets\Mirror\Plugins\BouncyCastle\Mirror.BouncyCastle.Cryptography.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.CecilX.Pdb">
+      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.CecilX.Rocks">
+      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json\Runtime\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
@@ -1142,12 +1180,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.2D.Aseprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
@@ -1222,10 +1260,6 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1236,6 +1270,10 @@
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
@@ -1328,6 +1366,54 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Mirror.Editor.csproj">
+      <Project>{6D2E704F-897A-05FC-4E6E-C6DA9ACA4816}</Project>
+      <Name>Mirror.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Edgegap.csproj">
+      <Project>{3D7D510D-461B-4BF4-DF97-92BCDBB81BF2}</Project>
+      <Name>Edgegap</Name>
+    </ProjectReference>
+    <ProjectReference Include="Telepathy.csproj">
+      <Project>{27A4B97A-B082-489B-B6AA-E96AB2428847}</Project>
+      <Name>Telepathy</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Components.csproj">
+      <Project>{2C5A8488-005E-C7AF-3697-96E3F719DAEF}</Project>
+      <Name>Mirror.Components</Name>
+    </ProjectReference>
+    <ProjectReference Include="EncryptionTransportEditor.csproj">
+      <Project>{27810C6C-2BAD-51F5-AA14-DFDEBCF0E79D}</Project>
+      <Name>EncryptionTransportEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.CompilerSymbols.csproj">
+      <Project>{1CDB4A4A-2B9C-46F5-A0E2-DBA12A9F2664}</Project>
+      <Name>Mirror.CompilerSymbols</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Authenticators.csproj">
+      <Project>{E1B08815-3B7E-E47A-816F-E0420DA4D9F7}</Project>
+      <Name>Mirror.Authenticators</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Examples.csproj">
+      <Project>{90D0653C-5620-83A5-4CCE-BA9F0E1E978E}</Project>
+      <Name>Mirror.Examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="kcp2k.csproj">
+      <Project>{FF557C8E-DDD8-2CCF-2B60-DC357E2299E9}</Project>
+      <Name>kcp2k</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.csproj">
+      <Project>{FC57FB45-8FCC-0063-8341-6903BF9A727F}</Project>
+      <Name>Mirror</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleWebTransport.csproj">
+      <Project>{0CB76646-568A-E173-631C-4B3426AE5F25}</Project>
+      <Name>SimpleWebTransport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Transports.csproj">
+      <Project>{52AE9F94-9BA9-B31D-2C59-07D3A1C1F96C}</Project>
+      <Name>Mirror.Transports</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
