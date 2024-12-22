@@ -5,6 +5,7 @@ public enum EControlType{
     keyboardMouse
 }
 
+
 public class PlayerSettings
 {
     public static EControlType controlType;
